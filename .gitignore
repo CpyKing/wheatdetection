@@ -1,0 +1,4 @@
+*.jpg
+*.pth
+dataloader/
+__pycache__/
