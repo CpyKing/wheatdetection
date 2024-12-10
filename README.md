@@ -12,3 +12,8 @@
 ├── train.csv
 ├── submission.csv
 ```
+### How to run
+training
+`python train.py`
+inference
+`python inference.py`
